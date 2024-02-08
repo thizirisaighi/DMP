@@ -12,6 +12,8 @@ Pour parvenir à ces conclusions, chaque facture émise par les 81 réparateurs 
 
 ## Importance de l'Analyse
 
+<iframe src='https://flo.uri.sh/visualisation/16740266/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16740266/?utm_source=embed&utm_campaign=visualisation/16740266' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
 Comprendre les différents formats de factures utilisés par les réparateurs revêt une importance stratégique à plusieurs niveaux. Tout d'abord, cela peut permettre d'identifier des opportunités d'optimisation des processus internes de facturation, conduisant ainsi à des gains d'efficacité et à des économies de temps et de ressources. De plus, une meilleure compréhension des attentes et des préférences des clients en matière de présentation des factures peut conduire à une amélioration de l'expérience client et à une augmentation de la satisfaction globale.
 
 ## Invitation à l'Exploration
