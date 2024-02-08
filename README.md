@@ -33,4 +33,9 @@ Comprendre les différents formats de factures utilisés par les réparateurs re
 <iframe title="[ Formats et non conformités  ]" aria-label="Split Bars" id="datawrapper-chart-W73Vg" src="https://datawrapper.dwcdn.net/W73Vg/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="666" data-external="1"></iframe>
 
 
+# Vue individuelle 
+
+![ActionRobot](https://github.com/thizirisaighi/Entreprise/raw/main/ActionRobot.png)
+![TTC](https://github.com/thizirisaighi/Entreprise/raw/main/TTC.png)
+![Formats de Facture](https://github.com/thizirisaighi/Entreprise/raw/main/images%20formats%20.png)
 
