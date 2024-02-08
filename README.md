@@ -14,7 +14,6 @@ Pour parvenir à ces conclusions, chaque facture émise par les 81 réparateurs 
 Comprendre les différents formats de factures utilisés par les réparateurs revêt une importance stratégique à plusieurs niveaux. Tout d'abord, cela peut permettre d'identifier des opportunités d'optimisation des processus internes de facturation, conduisant ainsi à des gains d'efficacité et à des économies de temps et de ressources. De plus, une meilleure compréhension des attentes et des préférences des clients en matière de présentation des factures peut conduire à une amélioration de l'expérience client et à une augmentation de la satisfaction globale.
 
 
-![Nom de l'image](https://github.com/thizirisaighi/Entreprise/raw/main/images%20formats%20.png)
 
 # Visualisation 
 <iframe title="[ Occurence des formats ]" aria-label="Pie Chart" id="datawrapper-chart-9A35f" src="https://datawrapper.dwcdn.net/9A35f/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="564" data-external="1"></iframe>
