@@ -32,7 +32,7 @@ Un aspect crucial de notre étude était l'identification des formats de facture
 
 # Visualisation Pareto
 
-![Numero](https://github.com/thizirisaighi/Entreprise/blob/main/Num%C3%A9roFacture.png)
+![Numero](https://github.com/thizirisaighi/Entreprise/blob/main/DateNum%C3%A9ro.png)
 ![TTC](https://github.com/thizirisaighi/Entreprise/raw/main/TTC.png)
 ![ActionRobot](https://github.com/thizirisaighi/Entreprise/raw/main/ActionRobot.png)
 
