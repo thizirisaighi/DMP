@@ -16,7 +16,7 @@ Un aspect crucial de notre étude était l'identification des formats de facture
 
 # Visualisation des occurences des 23 formats
 
-## Mise en évidence des quatre formats les plus utilisés 
+
 
 <iframe title="[ Occurence des formats ]" aria-label="Pie Chart" id="datawrapper-chart-9A35f" src="https://datawrapper.dwcdn.net/9A35f/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="564" data-external="1"></iframe>
 
