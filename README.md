@@ -37,5 +37,5 @@ Comprendre les différents formats de factures utilisés par les réparateurs re
 
 ![ActionRobot](https://github.com/thizirisaighi/Entreprise/raw/main/ActionRobot.png)
 ![TTC](https://github.com/thizirisaighi/Entreprise/raw/main/TTC.png)
-![Formats de Facture](https://github.com/thizirisaighi/Entreprise/raw/main/images%20formats%20.png)
+
 
