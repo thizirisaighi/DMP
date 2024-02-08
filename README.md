@@ -6,7 +6,7 @@ Notre analyse s'est penchée sur plusieurs aspects des formats de factures. Nous
 Un aspect crucial de notre étude était l'identification des non-conformités dans les format de facture. Ces non-conformités ont été étudiées en fonction de plusieurs critères, notamment le numéro de facture, le montant total toutes taxes comprises (TTC) et l'identité du réparateur. Nous avons analysé les variations et les anomalies dans ces facteurs pour déterminer les raisons.
 
 
-## Visualisations
+## Visualisations des 23 format 
 
 <iframe src='https://flo.uri.sh/visualisation/16740266/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16740266/?utm_source=embed&utm_campaign=visualisation/16740266' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
@@ -14,11 +14,12 @@ Comprendre les différents formats de factures utilisés par les réparateurs re
 
 >>> En effet, nous avons identifié 23 Format differents 
 
-# Visualisation des 23 format 
+# Visualisation des occurences des format
+## Première visualisation
 <iframe title="[ Occurence des formats ]" aria-label="Pie Chart" id="datawrapper-chart-9A35f" src="https://datawrapper.dwcdn.net/9A35f/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="564" data-external="1"></iframe>
 
 
-
+## Deuxième visualisation
 
 
 
@@ -37,4 +38,10 @@ Comprendre les différents formats de factures utilisés par les réparateurs re
 ![ActionRobot](https://github.com/thizirisaighi/Entreprise/raw/main/ActionRobot.png)
 ![TTC](https://github.com/thizirisaighi/Entreprise/raw/main/TTC.png)
 ![Numero](https://github.com/thizirisaighi/Entreprise/blob/main/Num%C3%A9roFacture.png)
+
+
+
+
+
+# Conclusion : 
 
