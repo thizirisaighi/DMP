@@ -26,7 +26,7 @@ Un aspect crucial de notre étude était l'identification des formats de facture
 # Visualisation détaillée  des non-conformités
 
 
-<iframe title="[ Format et non conformités  ]" aria-label="Split Bars" id="datawrapper-chart-W73Vg" src="https://datawrapper.dwcdn.net/W73Vg/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="665" data-external="1"></iframe>
+<iframe title="[ Format et non conformités  ]" aria-label="Split Bars" id="datawrapper-chart-W73Vg" src="https://datawrapper.dwcdn.net/W73Vg/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="712" data-external="1"></iframe>
 
 
 
