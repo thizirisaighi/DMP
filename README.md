@@ -1,6 +1,7 @@
 # Analyse des Formats de Facture 
+Suite à un Audit par picking de 115 factures issues de BCA Connect dans la période du 12 au 18 Janvier 2024
 
-L'objectif principal de cette étude est d'analyser les structures et les caractéristiques des différents formats, notamment en examinant le positionnement des éléments clés tels que la date, le numéro de facture,le montant TTC, et l'identification du réparateur, dans le but d'améliorer  la détection et lecture conforme des critères d'une facture par le Robot Facture. 
+L'objectif principal de cette étude est d'analyser les structures et les caractéristiques des différents formats, notamment en examinant le positionnement des éléments clés tels que la date, le numéro de facture, le montant TTC, et l'identification du réparateur, dans le but d'améliorer  la détection et lecture conforme des critères d'une facture par le Robot Facture. 
 
 L'étude porte sur 115 factures intégrées dans Robot Factures via BCA Connect. Parmi celles-ci, nous avons identifié 81 réparateurs distincts, chacun émettant ses propres factures selon 23 formats différents. 
 
@@ -43,3 +44,4 @@ En outre, la lecture d'un numéro secondaire inscrit sur dans la base réparateu
 # Conclusion : 
 Les occurrences d'absence ou de lecture non conforme devraient permettre d'améliorer le taux de précision de Robot Facture. 
 
+>>>  Direction Méthode et Processus,Le 9/02/2024 
