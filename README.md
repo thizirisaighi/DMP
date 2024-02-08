@@ -33,13 +33,14 @@ Un aspect crucial de notre étude était l'identification des formats de facture
 # Visualisation Pareto
 
 ![Numero](https://github.com/thizirisaighi/Entreprise/blob/main/DateNum%C3%A9ro.png)
-![TTC](https://github.com/thizirisaighi/Entreprise/raw/main/TTC.png)
-![ActionRobot](https://github.com/thizirisaighi/Entreprise/raw/main/ActionRobot.png)
+![TTC](https://github.com/thizirisaighi/Entreprise/blob/main/MontantAction.png)
 
 
+# Identification réparateur 
 
-
-
+Les occurrences sur le critère identification réparateur n'ont pas été relevées du fait de leur faible volumétrie et de l'action d'identification formelle à partir de la base réparateur. 
+En outre, la lecture d'un numéro secondaire inscrit sur dans la base réparateur ou la lecture avec des espaces entre chiffres d'un numéro de téléphone conforme n'ont pas permis une identification du réparateur. 
 
 # Conclusion : 
+Les occurrences d'absence ou de lecture non conforme devraient permettre d'améliorer le taux de précision de Robot Facture. 
 
